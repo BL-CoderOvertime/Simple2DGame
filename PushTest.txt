@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-testone two three
-hrsh
-=======
-hello youtube
-egag
->>>>>>> master
+test one two 
